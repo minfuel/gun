@@ -1,0 +1,13 @@
+Click
+Flask
+Flask-Sockets
+gevent
+gevent-websocket
+greenlet
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+redis
+websockets
+Werkzeug
